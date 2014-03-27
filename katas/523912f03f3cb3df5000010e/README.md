@@ -1,3 +1,6 @@
+Bag#every?
+===
+
 http://www.codewars.com/dojo/katas/523912f03f3cb3df5000010e/train/ruby
 
 We have an awesome, custom collection class, `Bag`, which already has implemented an `#each` for traversing its items and `#count` for counting the items. New requirements come in for the project to check arbitrary conditions regarding data inside of a `Bag`.
