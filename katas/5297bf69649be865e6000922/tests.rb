@@ -1,0 +1,1 @@
+Test.assert_equals(make_sentence(['hello', 'world']), 'hello world.')
